@@ -1,1 +1,1 @@
-This is exactly as it sounds, it is A Bit of Code For Her :)
+I had made a bet with a poet friend of mine that programmers are not at a disadvantage in impressing someone. We ended up having a mutual friend judge our bet and respective projects so naturally we changed the bet to a bit of friendly roasting. He ended up winning, but I'm fairly ok with what I came up with. 
